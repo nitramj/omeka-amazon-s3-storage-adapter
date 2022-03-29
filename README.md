@@ -16,6 +16,7 @@ The main differences are:
 
 1. Install the plugin by extracting it to the `plugins` directory in your Omeka instance and enabling
    in admin/plugins
+   (You may need to run **composer install** to generate the vendor files needed)
 2. Add the following to your Omeka `application/configuration/config.ini` file:
 
 ```
